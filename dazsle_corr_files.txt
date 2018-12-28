@@ -11,3 +11,5 @@ PUWeight2017_down pileup_minus ggH/pileup_Cert_294927-306462_13TeV_PromptReco_Co
 * * ggH/EfficienciesAndSF_RunBtoF_Nov17Nov2017.root
 * * ggH/RunBCDEF_data_ID.json
 * * ggH/RunBCDEF_data_ISO.json
+* * ggH/photon_id.ea.txt
+* * ggH/electron_id.ea.txt
