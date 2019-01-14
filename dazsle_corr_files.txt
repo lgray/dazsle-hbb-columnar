@@ -1,6 +1,7 @@
 * * data/ggH/Output_smooth_2017MC.root
 ZJets * data/ggH/ZJetsCorr.root
 WJets * data/ggH/WJetsCorr.root
+* * data/ggH/kfactors.root
 PUWeight2016_central puw data/ggH/puWeights_All.root
 PUWeight2016_up puw_p data/ggH/puWeights_All.root
 PUWeight2016_down puw_m data/ggH/puWeights_All.root
